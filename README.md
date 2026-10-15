@@ -25,12 +25,17 @@
 ---
 
 ## 📊 GitHub 통계
-README.md
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yoell1&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoell1&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=yoell1&theme=dark&hide_border=true" />
 
 ---
 
 ## 🌍 나와 연결하기
-[![Gmail](https://img.shields.io/badge/이메일-보내기-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:govj@Nnaver.com)
+[![Gmail](https://img.shields.io/badge/이메일-보내기-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:govj@naver.com)
 [![Notion](https://img.shields.io/badge/포트폴리오-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](노션포트폴리오주소)
 
 ---
