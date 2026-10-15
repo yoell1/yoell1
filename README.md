@@ -36,7 +36,7 @@
 
 ## 🌍 나와 연결하기
 [![Gmail](https://img.shields.io/badge/이메일-보내기-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:govj@naver.com)
-[![Notion](https://img.shields.io/badge/포트폴리오-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://app.notion.com/p/3d599fb7397c81c2af9bdc0e79557ee5)
+[![Notion](https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://app.notion.com/p/3d599fb7397c81c2af9bdc0e79557ee5)
 
 ---
 
